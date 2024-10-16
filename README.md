@@ -35,7 +35,8 @@
    java FirstNormalization
 1. **逆正規化**:
 
-以下のコマンドで、逆正規化プログラム
-javac ReverseFirstNormalization.java
-java ReverseFirstNormalization
+以下のコマンドで、逆正規化プログラムを実行します。
+
+   javac ReverseFirstNormalization.java
+   java ReverseFirstNormalization
 
