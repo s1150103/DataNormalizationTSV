@@ -55,5 +55,5 @@
    以下のコマンドで、逆正規化プログラムを実行します。
    
    ```bash
-  javac ReverseFirstNormalization.java
+  javac ReverseFirstNormalization.java 
   java ReverseFirstNormalization
