@@ -26,7 +26,8 @@
 ### 動作環境
 - このプログラムは、WindowsおよびLinux環境で動作するように設計されています。Java 8以上のバージョンがインストールされていることが前提です。
 
-## 使用方法
+## 使用方法javac ReverseFirstNormalization.java
+java ReverseFirstNormalization
 
 ### 前提条件
 
@@ -53,7 +54,6 @@
    
 2. **逆正規化**:
    以下のコマンドで、逆正規化プログラムを実行します。
-   
    ```bash
   javac ReverseFirstNormalization.java 
   java ReverseFirstNormalization
